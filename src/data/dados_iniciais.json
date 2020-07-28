@@ -1,0 +1,167 @@
+{
+  "categorias": [
+    {
+      "titulo": "Historia",
+      "link": "https://youtu.be/BscKGvlhTHI?t=2",
+      "cor": "red",
+      "link_extra": {
+        "text": "A história da Revolução Cubana. E suas consequências",
+        "url": "https://youtu.be/BscKGvlhTHI?t=2"
+      },
+      "videos": [
+        {
+          "titulo": "5 Coisas proibidas em Cuba que são comuns no Brasil ",
+          "url": "https://youtu.be/BsOI1XwGR7A?t=3"
+        },
+        {
+          "titulo": "Fulgencio Batista: El dictador militar de Cuba",
+          "url": "https://youtu.be/ulzwDhGAwcc?t=2"
+        },
+        {
+          "titulo": "La REVOLUCIÓN CUBANA en 10 minutos |s",
+          "url": "https://youtu.be/d_vrcyqBslc?t=19"
+        },
+
+        {
+          "titulo": "Cuba and the Cameraman |",
+          "url": "https://youtu.be/lsZ8hDutkeM?t=1"
+        },
+        {
+          "titulo": "El enfrentamiento entre Fidel Castro y la periodista de Univision, Bernadette Pardo",
+          "url": "https://youtu.be/-x4tkkNkmNE?list=TLPQMjgwNzIwMjBDfDMsWTkOzw&t=19"
+        }
+      ]
+    },
+    {
+      "titulo": "Musica",
+      "cor": "blue",
+      "link_extra": {
+        "text": "SALSA CUBANA - TIMBA HITS 2014 / 2015",
+        "url": "https://youtu.be/X7J7R8Wveic?t=14"
+      },
+      "videos": [
+        {
+          "titulo": "Reparto",
+          "url": "https://youtu.be/qp3phzJCE04?t=3M"
+        },
+        {
+          "titulo": "Salsa",
+          "url": "https://youtu.be/pxCMorGXBXA?t=1"
+        },
+
+        {
+          "titulo": "Regueton",
+          "url": "https://youtu.be/VMp55KH_3wo?t=2"
+        },
+        {
+          "titulo": "Rumba",
+          "url": "https://youtu.be/1yypFVnSHhc?t=26"
+        }
+      ]
+    },
+    {
+      "titulo": "Deporte",
+      "cor": "red",
+      "link_extra": {
+        "text": "The Best of Cuban Volleyball Players",
+        "url": "https://youtu.be/106FjAkU56o?t=2"
+      },
+      "videos": [
+        {
+          "titulo": "¿ Quién ha sido el mejor pelotero cubano de la última década ?",
+          "url": "https://youtu.be/pWtGNp41HyA?t=2"
+        },
+        {
+          "titulo": "El secreto que hace de Cuba una potencia en el boxeo",
+          "url": "https://youtu.be/7jERaamgFLc?t=9"
+        },
+        {
+          "titulo": "Javier Sotomayor - High Jump World Record - 2.45 m (8.046 ft)",
+          "url": "https://youtu.be/7n6NhV4CaiU?t=2"
+        },
+        {
+          "titulo": "JONRONEROS DEL AYER DEL BÉISBOL CUBANO",
+          "url": "https://youtu.be/VQnCDHwrGRk?t=12"
+        }
+      ]
+    },
+    {
+      "titulo": "Turismo",
+      "cor": "blue",
+      "link_extra": {
+        "text": "Qué ver en Cuba 🇨🇺 | 10 Lugares imprescindibless",
+        "url": "https://youtu.be/6uR4LQbha5w?t=3"
+      },
+      "videos": [
+        {
+          "titulo": "O que fazer na cidade de Havana em Cuba? ",
+          "url": "https://youtu.be/gJthrqwJLzo?t=4"
+        },
+        {
+          "titulo": "Las 10 mejores playas de Cuba",
+          "url": "https://youtu.be/96X_23-JE58?t=2"
+        },
+        {
+          "titulo": "Pueblos encantadores - Trinidad.Cuba",
+          "url": "https://youtu.be/y6kraI5xy6E?t=3"
+        },
+        {
+          "titulo": "Viñales Valley, Cuba in 4K",
+          "url": "https://youtu.be/zAtDKfv9pso?t=2"
+        }
+      ]
+    },
+    {
+      "titulo": "Youtubers",
+      "cor": "blue",
+      "link_extra": {
+        "text": "Youtubers CUBANOS más famosos del 2020 📷 Quién tiene más SUSCRIPTORES?",
+        "url": "https://youtu.be/ZOD5Tzfr8tA?t=3"
+      },
+      "videos": [
+        {
+          "titulo": "Apresentação do Canal - FRIENDS Rumo Ao Sucesso",
+          "url": "https://youtu.be/jmXfcs6_M7A?t=2"
+        },
+        {
+          "titulo": "pedrito el paketeroo 💋",
+          "url": "https://youtu.be/fDJKfWwlPuk?t=2"
+        },
+        {
+          "titulo": "Adrian Fernandez !!! 🔥 ",
+          "url": "https://youtu.be/409ELt8b6wM?t=16"
+        },
+        {
+          "titulo": "Camallerys Vlogs",
+          "url": "https://youtu.be/FpBPh_sigrI?t=15"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "red",
+      "link_extra": {
+        "text": "10 PELICULAS CUBANAS QUE ROMPIERON TAQUILLA",
+        "url": "https://youtu.be/9eqmE5FBcrA?t=1"
+      },
+      "videos": [
+        {
+          "titulo": "Conducta",
+          "url": "https://youtu.be/RHdhmZ3aqqk"
+        },
+        {
+          "titulo": "Un Rey En La Habana",
+          "url": "https://youtu.be/a0-s3xuBQRc?t=2"
+        },
+        {
+          "titulo": "Habanastation ",
+          "url": "https://youtu.be/He7zw-gmZwo?t=5"
+        },
+        {
+          "titulo": "Fresa y chocolate",
+          "url": "https://youtu.be/ToKpINJk4IM?t=1"
+        }
+      ]
+    }
+  ]
+}
